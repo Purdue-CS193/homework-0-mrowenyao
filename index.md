@@ -1,4 +1,10 @@
 ## Welcome to GitHub Pages
+# Owen's First CS193 Homework
+
+Things I like about CS193.
+- it meets once a week
+- its easy
+- no tests!
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
